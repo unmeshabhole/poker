@@ -1,0 +1,16 @@
+{
+  "name": "poker-exercise",
+  "version": "1.0.0",
+  "description": "Poker Hand Sorter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Unmesha",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "dependencies": {}
+}
